@@ -34,7 +34,7 @@ class Book {
     }
 }
 
-$Book1 = new Book("J.K. Rowling", "Harry Potter", 100.50, 10, 1);
+/* $Book1 = new Book("J.K. Rowling", "Harry Potter", 100.50, 10, 1);
 
 echo $Book1->getInfo();
 
@@ -43,7 +43,7 @@ echo "<br>";
 
 $Book2 = new Book("J.R.R. Tolkien", "El Señor de los Anillos", 150.50, 0, 2);
 
-echo $Book2->getInfo();
+echo $Book2->getInfo(); */
 
 // $Book1 = new Book();
 
